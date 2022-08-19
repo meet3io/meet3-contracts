@@ -13,7 +13,7 @@ MEET3  provides Web3 community a comprehensive platform to host authentic Web3 o
 
 ### SBT Contract
 
-Soulbound Tokens (SBTs) are non-transferable tokens that represent ¡°commitments, credentials, and affiliations¡± that make up the social relations on Web3 networks.
+Soulbound Tokens (SBTs) are non-transferable tokens that represent "commitments, credentials, and affiliations" that make up the social relations on Web3 networks.
 
 In Meet3, SBT is issued based on a person's participation records in Meet3 meetings or events, as a unique representation of a person's achievements and credentials.
 
