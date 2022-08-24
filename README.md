@@ -1,6 +1,10 @@
-# Welcome to Meet3
+<p align="center">
+  <a href="https://meet3.io" target="blank"><img src="https://meet3.io/logo.svg" width="200" alt="Meet3 Logo" /></a>
+</p>
 
-Meet incredible people in Web3
+<p align="center">Meet3 - Meet incredible people in Web3</p>
+
+# Welcome to Meet3
 
 MEET3  provides Web3 community a comprehensive platform to host authentic Web3 oriented meetings with ease and fun, be it AMA, OpenMic, OpenSpace, etc.
 
